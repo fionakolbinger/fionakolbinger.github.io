@@ -38,7 +38,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/ibtsaamqadir.jpg">
   <div class="team-member-info">
     <h4>Muhammad Ibtsaam Qadir</h4>
     <p>Ibtsaam will join the TIPS Lab in January 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
@@ -82,7 +82,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/kevinpfeiffer.png">
   <div class="team-member-info">
     <h4>Kevin Pfeiffer</h4>
     <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather. Building on years of programming experience, Kevin is focusing on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
