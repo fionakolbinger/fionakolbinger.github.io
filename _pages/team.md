@@ -31,7 +31,7 @@ horizontal: false
   <img src="/assets/img/futurehospital.png">
   <div class="team-member-info">
     <h4>Jinge Ma</h4>
-    <p>Jinge joined Purdue University in August 2023 as a PhD student and is co-advised with Prof. Fengqing Maggie Zhu at the Elmore Family School of Electrical and Computer Engineering. Jinge is working on laparoscopic image analysis for adaptive intraoperative surgical decision support.</p>
+    <p>Jinge joined Purdue University in August 2023 as a PhD student and is co-advised by Prof. Fengqing Maggie Zhu at the Elmore Family School of Electrical and Computer Engineering. Jinge is working on laparoscopic image analysis for adaptive intraoperative surgical decision support.</p>
   </div>
 </div>
 
