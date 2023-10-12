@@ -503,6 +503,23 @@ code {
   padding: 3px 3px;
 }
 
+.team-member {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.team-member-info {
+  flex-grow: 1;
+}
+
 html.transition,
 html.transition *,
 html.transition *:before,
