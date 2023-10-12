@@ -55,7 +55,7 @@ horizontal: false
   <img src="/assets/img/futurehospital.png">
   <div class="team-member-info">
     <h4>Sophie-Caroline Schwarzkopf, BSc, MD</h4>
-    <p>Sophie is a clinician scientist with a strong interest in surgical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
+    <p>Sophie is a clinician scientist with a strong interest in surgical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
   </div>
 </div>
 
