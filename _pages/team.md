@@ -52,7 +52,7 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/sophieschwarzkopf.jpeg">
   <div class="team-member-info">
     <h4>Sophie-Caroline Schwarzkopf, BSc, MD</h4>
     <p>Sophie is a clinician scientist with a strong interest in surgical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
@@ -72,10 +72,10 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/enrikgeissler.jpeg">
   <div class="team-member-info">
-    <h4>Mark-Enrik Geissler</h4>
-    <p>Enrik is a medical student with diverse research experience in both wet lab and computational labs. He is interested in leveraging computational methods for the analysis of routine imaging in laparoscopic surgery and foregut endoscopy.</p>
+    <h4>Mark Enrik Geissler</h4>
+    <p>Enrik is a medical student with diverse research experience in both wet lab settings and computational labs. He is interested in leveraging computational methods for the analysis of routine imaging in laparoscopic surgery and foregut endoscopy.</p>
   </div>
 </div>
 

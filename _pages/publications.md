@@ -31,8 +31,6 @@ One of our key research areas is intraoperative decision support in laparoscopic
 
 Surgical procedures are inherently connected with the risk of complications. Early - ideally preoperative - anticipation of complications, their timely identification and treatment can considerably reduce their clinical impact. We use both statistical and computational methods for complication risk and outcome stratification in patients undergoing surgery and explore methods to improve their early detection and accurate management. Many of our works in this field relate to the prediction and early detection of postoperative pancreatic fistula, one of the most common and severe complications following pancreatic surgery.
 
-- Zhao X\*, Kolbinger FR\*, Distler M, Weitz J, Makarov D, Bachmann M, Baraban L. *Portable Droplet-Based Real-Time Monitoring of Pancreatic α-Amylase in Postoperative Patients.* **Preprint at ResearchSquare**. doi: [10.21203/RS.3.RS-2800086/V1](https://doi.org/10.21203/RS.3.RS-2800086/V1).
-
 - Schwarzkopf SC, Distler M, Welsch T, Krause-Jüttler G, Weitz J, Kolbinger FR. *Case-based Serious Gaming for Complication Management in Colorectal and Pancreatic Surgery: A Prospective Observational Study.* **JMIR Serious Games, 2023**. (in press)
 
 - Bhasker N\*, Kolbinger FR\*, Skorobohach N, Zwanenburg A, Löck S, Weitz J, Hoffmann RT, Distler M, Speidel S, Leger S<sup>#</sup>, Kühn JP<sup>#</sup>. *Prediction of Clinically Relevant Postoperative Pancreatic Fistula Using Radiomic Features and Preoperative Data.* **Scientific Reports, 2023**. doi: [10.1038/s41598-023-34168-x](https://doi.org/10.1038/s41598-023-34168-x).
