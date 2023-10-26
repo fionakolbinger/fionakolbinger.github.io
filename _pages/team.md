@@ -62,7 +62,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/matthiascarstens.jpeg">
   <div class="team-member-info">
     <h4>Matthias Carstens</h4>
     <p>Matthias joined the lab in 2020. He is a medical doctoral student at the Technical University Dresden, Germany, and is co-advised by Prof. Marius Distler. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
@@ -92,7 +92,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/hannaschmeiser.jpeg">
   <div class="team-member-info">
     <h4>Hanna Schmeiser</h4>
     <p style="margin: 0;">Hanna joined the team as a medical doctoral student in 2022. Her doctoral research focuses on the prediction of postoperative pancreatic fistula after distal pancreatectomy based on multimodal preoperative and intraoperative data. Hanna is co-advised by Prof. Marius Distler at the Technical University Dresden. </p>
