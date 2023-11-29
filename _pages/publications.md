@@ -31,7 +31,7 @@ One of our key research areas is intraoperative decision support in laparoscopic
 
 Surgical procedures are inherently connected with the risk of complications. Early - ideally preoperative - anticipation of complications, their timely identification and treatment can considerably reduce their clinical impact. We use both statistical and computational methods for complication risk and outcome stratification in patients undergoing surgery and explore methods to improve their early detection and accurate management. Many of our works in this field relate to the prediction and early detection of postoperative pancreatic fistula, one of the most common and severe complications following pancreatic surgery.
 
-- Schwarzkopf SC, Distler M, Welsch T, Krause-Jüttler G, Weitz J, Kolbinger FR. *Case-based Serious Gaming for Complication Management in Colorectal and Pancreatic Surgery: A Prospective Observational Study.* **JMIR Serious Games, 2023**. (in press)
+- Schwarzkopf SC, Distler M, Welsch T, Krause-Jüttler G, Weitz J, Kolbinger FR. *Case-based Serious Gaming for Complication Management in Colorectal and Pancreatic Surgery: A Prospective Observational Study.* **JMIR Serious Games, 2023**. doi: [10.2196/44708](https://doi.org/10.2196/44708).
 
 - Bhasker N\*, Kolbinger FR\*, Skorobohach N, Zwanenburg A, Löck S, Weitz J, Hoffmann RT, Distler M, Speidel S, Leger S<sup>#</sup>, Kühn JP<sup>#</sup>. *Prediction of Clinically Relevant Postoperative Pancreatic Fistula Using Radiomic Features and Preoperative Data.* **Scientific Reports, 2023**. doi: [10.1038/s41598-023-34168-x](https://doi.org/10.1038/s41598-023-34168-x).
 
@@ -70,7 +70,9 @@ Saldanha OL, Muti HS, Grabsch HI, Langer R, Dislich B, Kohlruss M, Keller G, van
 
 We believe that science is inherently interdisciplinary and teaches us lessons that can help us understand phenomena beyond our workplace. The following works document ongoing, curiosity-driven research in the context of endurance sports and mental health. 
 
-- Kesenheimer JS\*, Sagioglou C\*, Kronbichler A, Gauckler P<sup>#</sup>, Kolbinger FR<sup>#</sup>. *Why Do People Cycle (a Lot)? A Multivariate Approach on Mental Health, Personality Traits and Motivation as Determinants for Cycling Ambition.* **Journal of Applied Sport Psychology, 2023**. doi: [10.1080/10413200.2023.2166157](https://doi.org/10.1080/10413200.2023.2166157). 
+- Gauckler P, Kesenheimer JS, Leierer J, Kruus M, Schreinlechner M, Theurl F, Bauer A, Denicolò S, Egger A, Seeber B, Mayer G, Kolbinger FR <sup>#</sup>, Kronbichler A<sup>#</sup>. *Exercise-Induced Fluid Retention, Cardiac Volume Overload, and Peripheral Edema in Ultra-Distance Cyclists.* **Kidney International Reports, 2023**. doi: [10.1016/j.ekir.2023.10.025](https://doi.org/10.1016/j.ekir.2023.10.025).
+
+- Kesenheimer JS\*, Sagioglou C\*, Kronbichler A, Gauckler P<sup>#</sup>, Kolbinger FR<sup>#</sup>. *Why Do People Cycle (a Lot)? A Multivariate Approach on Mental Health, Personality Traits and Motivation as Determinants for Cycling Ambition.* **Journal of Applied Sport Psychology, 2023**. doi: [10.1080/10413200.2023.2166157](https://doi.org/10.1080/10413200.2023.2166157).
 
 - Gauckler P, Kesenheimer JS, Kronbichler A, Kolbinger FR. *Edema-like Symptoms Are Common in Ultra-Distance Cyclists and Driven by Overdrinking, Use of Analgesics and Female Sex – a Study of 919 Athletes.* **Journal of the International Society of Sports Nutrition, 2021**. doi: [10.1186/s12970-021-00470-0](https://doi.org/10.1186/s12970-021-00470-0).
 

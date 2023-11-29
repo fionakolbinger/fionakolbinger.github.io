@@ -28,7 +28,7 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/jingema.jpeg">
   <div class="team-member-info">
     <h4>Jinge Ma</h4>
     <p>Jinge joined Purdue University in August 2023 as a PhD student and is co-advised by Prof. Fengqing Maggie Zhu at the Elmore Family School of Electrical and Computer Engineering. Jinge is working on laparoscopic image analysis for adaptive intraoperative surgical decision support.</p>
@@ -47,6 +47,25 @@ horizontal: false
 
 <br>
 
+<div class="team-member">
+  <img src="/assets/img/nathanpairitz.jpeg">
+  <div class="team-member-info">
+    <h4>Nathan Pairitz</h4>
+    <p>Nate is a medical student at Indiana University in West Lafayette. He works on practical aspects of human-AI collaboration in the context of intraoperative surgical decision support.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/futurehospital.png">
+  <div class="team-member-info">
+    <h4>Sarwesh Rauniyar</h4>
+    <p>Sarwesh is a medical student at Indiana University in Indianapolis. Prior to joining our team in December 2023, he completed his undergraduate studies in Math at the University of Washington and gathered experience in computational microscopic image analysis for cancer research applications. Sarwesh is working on the computational analysis of tomographic data to predict outcomes in patients with gastrointestinal cancer.</p>
+  </div>
+</div>
+
+<br>
 ## Associate Lab Members
 
 ###### <br>
