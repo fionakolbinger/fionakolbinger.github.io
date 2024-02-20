@@ -41,7 +41,37 @@ horizontal: false
   <img src="/assets/img/ibtsaamqadir.jpg">
   <div class="team-member-info">
     <h4>Muhammad Ibtsaam Qadir</h4>
-    <p>Ibtsaam will join the TIPS Lab in January 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
+    <p>Ibtsaam will join the TIPS Lab in 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/farrenmartinus.jpeg">
+  <div class="team-member-info">
+    <h4>Farren Martinus</h4>
+    <p>Farren joined the team in 2024. He is a Biomedical Engineering undergraduate student with an interest in electrical engineering and medical decision support software development. His research focuses on the analysis of laparoscopic imaging data.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/henrynguyen.jpeg">
+  <div class="team-member-info">
+    <h4>Henry Nguyen</h4>
+    <p>Henry is an aspiring Aeronautical and Astronautical Engineering student who joined the TIPS Lab in 2024. Having worked with X-ray imaging of turbines before joining our team, he now primarily investigates medical imaging data, focusing on histopathological data from various species.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/madisonloiselle.jpeg">
+  <div class="team-member-info">
+    <h4>Madison Loiselle</h4>
+    <p>Maddie studies Biomedical Engineering with a Computer Science minor and joined the team in 2024. She works on veterinary histopathology data and investigates ways to predict clinically actionable endpoints from routine imaging.</p>
   </div>
 </div>
 
@@ -51,7 +81,17 @@ horizontal: false
   <img src="/assets/img/nathanpairitz.jpeg">
   <div class="team-member-info">
     <h4>Nathan Pairitz</h4>
-    <p>Nate is a medical student at Indiana University in West Lafayette. He works on practical aspects of human-AI collaboration in the context of intraoperative surgical decision support.</p>
+    <p>Nate is a medical student at Indiana University West Lafayette with a keen interest in anatomy and medical education. His research focuses on the practical integration of large language models into medical curricula.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/salonijajoo.jpeg">
+  <div class="team-member-info">
+    <h4>Saloni Jajoo</h4>
+    <p>Saloni is a Data Science student at Purdue University with a minor in Computer Science. Building on years of experience in data analysis and visualization, she aims to identify clinically relevant disease patterns from large clinical datasets in the fields of interventional cardiology and cardiac surgery. Saloni joined the team in 2024.</p>
   </div>
 </div>
 
@@ -60,8 +100,18 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/futurehospital.png">
   <div class="team-member-info">
-    <h4>Sarwesh Rauniyar</h4>
-    <p>Sarwesh is a medical student at Indiana University in Indianapolis. Prior to joining our team in December 2023, he completed his undergraduate studies in Math at the University of Washington and gathered experience in computational microscopic image analysis for cancer research applications. Sarwesh is working on the computational analysis of tomographic data to predict outcomes in patients with gastrointestinal cancer.</p>
+    <h4>Stephanie Close</h4>
+    <p>Steph studies Electrical and Computer Engineering and joined the TIPS Lab in 2024. Building on years of programming experience, her research focuses on deep learning-based analysis of radiological imaging data.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/futurehospital.png">
+  <div class="team-member-info">
+    <h4>Yash Agnihotri</h4>
+    <p>Yash joined the team in 2024. He is an Electrical and Computer Engineering student interested in computational image analysis and medical education. His research aims to improve surgical skill analysis based on automated analysis of video data.</p>
   </div>
 </div>
 
@@ -73,8 +123,8 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/sophieschwarzkopf.jpeg">
   <div class="team-member-info">
-    <h4>Sophie-Caroline Schwarzkopf, BSc, MD</h4>
-    <p>Sophie is a clinician scientist with a strong interest in surgical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
+    <h4>Dr. Sophie-Caroline Schwarzkopf, BSc, MD</h4>
+    <p>Sophie is a clinician scientist in the field of obstetrics and gynecology with a strong interest in medical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -84,7 +134,7 @@ horizontal: false
   <img src="/assets/img/matthiascarstens.jpeg">
   <div class="team-member-info">
     <h4>Matthias Carstens</h4>
-    <p>Matthias joined the lab in 2020. He is a medical doctoral student at the Technical University Dresden, Germany, and is co-advised by Prof. Marius Distler. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
+    <p>Matthias joined the lab in 2020. He is a medical doctoral student at the Technical University Dresden, Germany, and is co-advised by Prof. Marius Distler. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -104,7 +154,7 @@ horizontal: false
   <img src="/assets/img/kevinpfeiffer.png">
   <div class="team-member-info">
     <h4>Kevin Pfeiffer</h4>
-    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather. Building on years of programming experience, Kevin is focusing on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
+    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather. Building on years of programming experience, Kevin focuses on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
   </div>
 </div>
 

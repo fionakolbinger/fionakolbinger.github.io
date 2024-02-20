@@ -31,13 +31,13 @@ One of our key research areas is intraoperative decision support in laparoscopic
 
 Surgical procedures are inherently connected with the risk of complications. Early - ideally preoperative - anticipation of complications, their timely identification and treatment can considerably reduce their clinical impact. We use both statistical and computational methods for complication risk and outcome stratification in patients undergoing surgery and explore methods to improve their early detection and accurate management. Many of our works in this field relate to the prediction and early detection of postoperative pancreatic fistula, one of the most common and severe complications following pancreatic surgery.
 
+- Zhao X\*, Kolbinger FR\*, Distler M, Weitz J, Makarov D, Bachmann M, Baraban L. *Portable Droplet-Based Real-Time Monitoring of Pancreatic α-Amylase in Postoperative Patients.* **Biosensors and Bioelectronics, 2024**. doi: [10.1016/j.bios.2024.116034](https://doi.org/10.1016/j.bios.2024.116034)
+
 - Schwarzkopf SC, Distler M, Welsch T, Krause-Jüttler G, Weitz J, Kolbinger FR. *Case-based Serious Gaming for Complication Management in Colorectal and Pancreatic Surgery: A Prospective Observational Study.* **JMIR Serious Games, 2023**. doi: [10.2196/44708](https://doi.org/10.2196/44708).
 
 - Bhasker N\*, Kolbinger FR\*, Skorobohach N, Zwanenburg A, Löck S, Weitz J, Hoffmann RT, Distler M, Speidel S, Leger S<sup>#</sup>, Kühn JP<sup>#</sup>. *Prediction of Clinically Relevant Postoperative Pancreatic Fistula Using Radiomic Features and Preoperative Data.* **Scientific Reports, 2023**. doi: [10.1038/s41598-023-34168-x](https://doi.org/10.1038/s41598-023-34168-x).
 
 - Kolbinger FR, Lambrecht J, Leger S, Ittermann T, Speidel S, Weitz J, Hoffmann RT, Distler M, Kühn JP. *The Image-Based Preoperative Fistula Risk Score (PreFRS) Predicts Postoperative Pancreatic Fistula in Patients Undergoing Pancreatic Head Resection.* **Scientific Reports, 2022**. doi: [10.1038/s41598-022-07970-2](https://doi.org/10.1038/s41598-022-07970-2).
-
-- Hempel S, Oehme F, Tahirukaj E, Kolbinger FR, Müssle B, Welsch T, Weitz J, Distler M. *More Is More? Total Pancreatectomy for Periampullary Cancer as an Alternative in Patients with High-Risk Pancreatic Anastomosis: A Propensity Score-Matched Analysis.* **Annals of Surgical Oncology, 2021**. doi: [10.1245/s10434-021-10292-8](https://doi.org/10.1245/s10434-021-10292-8).
 
 <br>
 
@@ -70,7 +70,7 @@ Saldanha OL, Muti HS, Grabsch HI, Langer R, Dislich B, Kohlruss M, Keller G, van
 
 We believe that science is inherently interdisciplinary and teaches us lessons that can help us understand phenomena beyond our workplace. The following works document ongoing, curiosity-driven research in the context of endurance sports and mental health. 
 
-- Gauckler P, Kesenheimer JS, Leierer J, Kruus M, Schreinlechner M, Theurl F, Bauer A, Denicolò S, Egger A, Seeber B, Mayer G, Kolbinger FR <sup>#</sup>, Kronbichler A<sup>#</sup>. *Exercise-Induced Fluid Retention, Cardiac Volume Overload, and Peripheral Edema in Ultra-Distance Cyclists.* **Kidney International Reports, 2023**. doi: [10.1016/j.ekir.2023.10.025](https://doi.org/10.1016/j.ekir.2023.10.025).
+- Gauckler P, Kesenheimer JS, Leierer J, Kruus M, Schreinlechner M, Theurl F, Bauer A, Denicolò S, Egger A, Seeber B, Mayer G, Kolbinger FR <sup>#</sup>, Kronbichler A<sup>#</sup>. *Exercise-Induced Fluid Retention, Cardiac Volume Overload, and Peripheral Edema in Ultra-Distance Cyclists.* **Kidney International Reports, 2024**. doi: [10.1016/j.ekir.2023.10.025](https://doi.org/10.1016/j.ekir.2023.10.025).
 
 - Kesenheimer JS\*, Sagioglou C\*, Kronbichler A, Gauckler P<sup>#</sup>, Kolbinger FR<sup>#</sup>. *Why Do People Cycle (a Lot)? A Multivariate Approach on Mental Health, Personality Traits and Motivation as Determinants for Cycling Ambition.* **Journal of Applied Sport Psychology, 2023**. doi: [10.1080/10413200.2023.2166157](https://doi.org/10.1080/10413200.2023.2166157).
 
@@ -81,6 +81,8 @@ We believe that science is inherently interdisciplinary and teaches us lessons t
 ## Reviews and comments
 
 We share some of our ideas and experiences in the field of computational medicine and surgery in these reviews and comments: 
+
+- Kolbinger FR\*, Veldhuizen GP\*, Zhu J, Truhn D, Kather JN. *Reporting Guidelines in Medical Artificial Intelligence: A Systematic Review and Meta-Analysis.* **Communications Medicine, 2024**. *(accepted for publication)*
 
 - Clusmann J\*, Kolbinger FR\*, Muti HS\*, Carrero ZI, Eckardt JN, Ghaffari Laleh N, Löffler CML, Schwarzkopf SC, Unger M, Veldhuizen GP, Wagner SJ, Kather JN. *The Future Landscape of Large Language Models in Medicine.* **Communications Medicine, 2023**. doi: [10.1038/s43856-023-00370-1](https://doi.org/10.1038/s43856-023-00370-1)
 
