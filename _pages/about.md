@@ -10,7 +10,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-The **TIPS Lab** is a dynamic, interdisciplinary team of researchers located at [Purdue University](https://www.purdue.edu/)'s [Weldon School of Biomedical Engineering](https://engineering.purdue.edu/BME) in West Lafayette, IN, USA. We work at the intersection of surgery and data science, aiming to **develop clinically valuable computational tools for personalized patient care in surgery**. Combining technical knowledge with a clinical perspective on health and disease and an understanding of legal and regulatory requirements, our goal is to drive the clinical translation of novel technologies in the fields of surgery and interventional medicine.
+The **TIPS Lab** is a dynamic, interdisciplinary team of researchers located at [Purdue University](https://www.purdue.edu/)'s [Weldon School of Biomedical Engineering](https://engineering.purdue.edu/BME) in West Lafayette, IN, USA. We work at the intersection of surgery and data science, aiming to **develop clinically valuable computational tools for personalized patient care in surgery**. Our research focuses on two main areas: Preoperative decision support and image-based intraoperative assistance. Combining technical knowledge with a clinical perspective on health and disease and an understanding of legal and regulatory requirements, our goal is to drive the clinical translation of novel technologies in the fields of surgery and interventional medicine.
 
 To learn more about our research, please see our [publications](/publications/), meet our [team](/team/) and check out current [opportunities to join the lab](/contact/).
 

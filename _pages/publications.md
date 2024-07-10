@@ -19,6 +19,8 @@ Please find our full list of publications on [Pubmed](https://pubmed.ncbi.nlm.ni
 
 One of our key research areas is intraoperative decision support in laparoscopic and robot-assisted surgery based on real-world imaging data. We specialize in both compilation of valuable new datasets and implementation of clinically applicable tools that are currently undergoing clinical translation. 
 
+- Kolbinger FR, He J, Ma J, Zhu F. *Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models.* **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024**. doi: [10.48550/arXiv.2403.17192](https://doi.org/10.48550/arXiv.2403.17192).
+
 - Kolbinger FR, Rinner FM, Jenke AC, Carstens M, Krell S, Leger S, Distler M, Weitz J, Speidel S, Bodenstedt S. *Anatomy Segmentation in Laparoscopic Surgery: Comparison of Machine Learning and Human Expertise – An Experimental Study.* **International Journal of Surgery, 2023**. doi: [10.1097/JS9.0000000000000595](https://doi.org/10.1097/JS9.0000000000000595).
 
 - Kolbinger FR, Bodenstedt S, Carstens M, Leger S, Krell S, Rinner FM, Nielen TP, Kirchberg J, Fritzmann J, Weitz J, Distler M<sup>#</sup>, Speidel S<sup>#</sup>. *Artificial Intelligence for Context-Aware Surgical Guidance in Complex Robot-Assisted Oncological Procedures: An Exploratory Feasibility Study.* **European Journal of Surgical Oncology, 2023**. doi: [10.1016/j.ejso.2023.106996](https://doi.org/10.1016/j.ejso.2023.106996).
@@ -41,18 +43,6 @@ Surgical procedures are inherently connected with the risk of complications. Ear
 
 <br>
 
-## Personalized treatment of solid tumors
-
-A major aim of our work is to increase personalization of medical care. Some of our early works focus on targeted treatment strategies in solid tumors including pediatric neuroblastoma and cancer of unknown primary (CUP).  
-
-- Kolbinger FR, Bernard V, Lee JJ, Stephens B, Branchi V, Raghav KPS, Maitra A, Guerrero P, Semaan A. *Significance of Distinct Liquid Biopsy Compartments in Evaluating Somatic Mutations for Targeted Therapy Selection in Cancer of Unknown Primary.* **Journal of Gastrointestinal Cancer, 2023**. doi: [10.1007/S12029-023-00922-7](https://doi.org/10.1007/S12029-023-00922-7).
-
-- Kolbinger FR, Koeneke E, Ridinger J, Heimburg T, Müller M, Bayer T, Sippl W, Jung M, Gunkel N, Miller AK, Westermann F, Witt O, Oehme I. *The HDAC6/8/10 Inhibitor TH34 Induces DNA Damage-Mediated Cell Death in Human High-Grade Neuroblastoma Cell Lines.* **Archives of Toxicology, 2018**. doi: [10.1007/s00204-018-2234-8](https://doi.org/10.1007/s00204-018-2234-8).
-
-- Heimburg T, Kolbinger FR, Zeyen P, Ghazy E, Herp D, Schmidtkunz K, Melesina J, Shaik TB, Erdmann F, Schmidt M, Romier C, Robaa D, Witt O, Oehme I, Jung M, Sippl W. *Structure-Based Design and Biological Characterization of Selective Histone Deacetylase 8 (HDAC8) Inhibitors with Anti-Neuroblastoma Activity.* **Journal of Medicinal Chemistry, 2017**. doi: [10.1021/acs.jmedchem.7b01447](https://doi.org/10.1021/acs.jmedchem.7b01447).
-
-<br>
-
 <!-- ## Methodological and regulatory aspects of technological innovation in surgery ## Methodological and regulatory research >> replace Personalized treatment in solid tumors when papers are out
 
 META Guidelines
@@ -66,6 +56,18 @@ Saldanha OL, Muti HS, Grabsch HI, Langer R, Dislich B, Kohlruss M, Keller G, van
  -->
 
 
+## Reviews and comments
+
+We share some of our ideas and experiences in the field of computational medicine and surgery in these reviews and comments: 
+
+- Kolbinger FR\*, Veldhuizen GP\*, Zhu J, Truhn D, Kather JN. *Reporting Guidelines in Medical Artificial Intelligence: A Systematic Review and Meta-Analysis.* **Communications Medicine, 2024**. doi: [10.1038/s43856-024-00492-0](https://doi.org/10.1038/s43856-024-00492-0)
+
+- Clusmann J\*, Kolbinger FR\*, Muti HS\*, Carrero ZI, Eckardt JN, Ghaffari Laleh N, Löffler CML, Schwarzkopf SC, Unger M, Veldhuizen GP, Wagner SJ, Kather JN. *The Future Landscape of Large Language Models in Medicine.* **Communications Medicine, 2023**. doi: [10.1038/s43856-023-00370-1](https://doi.org/10.1038/s43856-023-00370-1)
+
+- Quero G, Mascagni P, Kolbinger FR, Fiorillo C, De Sio D, Longo F, Schena CA, Laterza V, Rosa F, Menghi R, Papa V, Tondolo V, Cina C, Distler M, Weitz J, Speidel S, Padoy N, Alfieri S. *Artificial Intelligence in Colorectal Cancer Surgery: Present and Future Perspectives.* **Cancers, 2022**. doi: [10.3390/cancers14153803](https://doi.org/10.3390/cancers14153803). 
+
+<br>
+
 ## Physical and mental effects of endurance sports
 
 We believe that science is inherently interdisciplinary and teaches us lessons that can help us understand phenomena beyond our workplace. The following works document ongoing, curiosity-driven research in the context of endurance sports and mental health. 
@@ -75,17 +77,5 @@ We believe that science is inherently interdisciplinary and teaches us lessons t
 - Kesenheimer JS\*, Sagioglou C\*, Kronbichler A, Gauckler P<sup>#</sup>, Kolbinger FR<sup>#</sup>. *Why Do People Cycle (a Lot)? A Multivariate Approach on Mental Health, Personality Traits and Motivation as Determinants for Cycling Ambition.* **Journal of Applied Sport Psychology, 2023**. doi: [10.1080/10413200.2023.2166157](https://doi.org/10.1080/10413200.2023.2166157).
 
 - Gauckler P, Kesenheimer JS, Kronbichler A, Kolbinger FR. *Edema-like Symptoms Are Common in Ultra-Distance Cyclists and Driven by Overdrinking, Use of Analgesics and Female Sex – a Study of 919 Athletes.* **Journal of the International Society of Sports Nutrition, 2021**. doi: [10.1186/s12970-021-00470-0](https://doi.org/10.1186/s12970-021-00470-0).
-
-<br>
-
-## Reviews and comments
-
-We share some of our ideas and experiences in the field of computational medicine and surgery in these reviews and comments: 
-
-- Kolbinger FR\*, Veldhuizen GP\*, Zhu J, Truhn D, Kather JN. *Reporting Guidelines in Medical Artificial Intelligence: A Systematic Review and Meta-Analysis.* **Communications Medicine, 2024**. *(accepted for publication)*
-
-- Clusmann J\*, Kolbinger FR\*, Muti HS\*, Carrero ZI, Eckardt JN, Ghaffari Laleh N, Löffler CML, Schwarzkopf SC, Unger M, Veldhuizen GP, Wagner SJ, Kather JN. *The Future Landscape of Large Language Models in Medicine.* **Communications Medicine, 2023**. doi: [10.1038/s43856-023-00370-1](https://doi.org/10.1038/s43856-023-00370-1)
-
-- Quero G, Mascagni P, Kolbinger FR, Fiorillo C, De Sio D, Longo F, Schena CA, Laterza V, Rosa F, Menghi R, Papa V, Tondolo V, Cina C, Distler M, Weitz J, Speidel S, Padoy N, Alfieri S. *Artificial Intelligence in Colorectal Cancer Surgery: Present and Future Perspectives.* **Cancers, 2022**. doi: [10.3390/cancers14153803](https://doi.org/10.3390/cancers14153803). 
 
 <br>

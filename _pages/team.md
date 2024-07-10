@@ -17,7 +17,7 @@ horizontal: false
   <img src="/assets/img/fionakolbinger.jpeg">
   <div class="team-member-info">
     <h4>Dr. Fiona Kolbinger, MD</h4>
-    <p>Fiona is a physician by training and joined Purdue University's Weldon School of Biomedical Engineering as a Research Assistant Professor in 2023. She holds a secondary affiliation with the Department of Visceral, Thoracic and Vascular Surgery at the University Hospital Dresden, Germany. Fiona completed her doctorate at the German Cancer Research Center in Heidelberg, Germany in 2019 and has since conducted translational research at the intersection of surgery and data science. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
+    <p>Fiona is a physician by training and joined Purdue University's Weldon School of Biomedical Engineering as a Research Assistant Professor in 2023. She holds secondary affiliations with the Regenstrief Center for Healthcare Engineering (RCHE) at Purdue University, the Department of Biostatistics and Health Data Science at Indiana University, and the Department of Visceral, Thoracic and Vascular Surgery at the University Hospital Dresden, Germany. Fiona completed her doctorate at the German Cancer Research Center in Heidelberg, Germany in 2019 and has since conducted translational research at the intersection of surgery and data science. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -28,20 +28,30 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/jingema.jpeg">
+  <img src="/assets/img/ibtsaamqadir.jpg">
   <div class="team-member-info">
-    <h4>Jinge Ma</h4>
-    <p>Jinge joined Purdue University in August 2023 as a PhD student and is co-advised by Prof. Fengqing Maggie Zhu at the Elmore Family School of Electrical and Computer Engineering. Jinge is working on laparoscopic image analysis for adaptive intraoperative surgical decision support.</p>
+    <h4>Muhammad Ibtsaam Qadir</h4>
+    <p>Ibtsaam joined the team in May 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
   </div>
 </div>
 
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/ibtsaamqadir.jpg">
+  <img src="/assets/img/futurehospital.png">
   <div class="team-member-info">
-    <h4>Muhammad Ibtsaam Qadir</h4>
-    <p>Ibtsaam will join the TIPS Lab in 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
+    <h4>Yi Yang</h4>
+    <p>Yi will join the team in August 2024 as a PhD student in Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging, and his research aims to connect information from various clinical data modalities to provide clinical decision support in patients with cancer and autoimmune disease.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/futurehospital.png">
+  <div class="team-member-info">
+    <h4>Zheyuan Zhang</h4>
+    <p>Zheyuan will join the lab in August 2024 as a PhD student in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicentric collaboration in the field of Surgical Data Science.</p>
   </div>
 </div>
 
@@ -61,7 +71,7 @@ horizontal: false
   <img src="/assets/img/henrynguyen.jpeg">
   <div class="team-member-info">
     <h4>Henry Nguyen</h4>
-    <p>Henry is an aspiring Aeronautical and Astronautical Engineering student who joined the TIPS Lab in 2024. Having worked with X-ray imaging of turbines before joining our team, he now primarily investigates medical imaging data, focusing on histopathological data from various species.</p>
+    <p>Henry is an aspiring Aeronautical and Astronautical Engineer who joined the TIPS Lab in 2024. Having worked with X-ray imaging of turbines before joining our team, he now primarily investigates medical imaging data, focusing on histopathological data from various species.</p>
   </div>
 </div>
 
@@ -102,16 +112,6 @@ horizontal: false
   <div class="team-member-info">
     <h4>Stephanie Close</h4>
     <p>Steph studies Electrical and Computer Engineering and joined the TIPS Lab in 2024. Building on years of programming experience, her research focuses on deep learning-based analysis of radiological imaging data.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/futurehospital.png">
-  <div class="team-member-info">
-    <h4>Yash Agnihotri</h4>
-    <p>Yash joined the team in 2024. He is an Electrical and Computer Engineering student interested in computational image analysis and medical education. His research aims to improve surgical skill analysis based on automated analysis of video data.</p>
   </div>
 </div>
 
