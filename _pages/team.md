@@ -38,7 +38,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/yiyang.jpeg">
   <div class="team-member-info">
     <h4>Yi Yang</h4>
     <p>Yi will join the team in August 2024 as a PhD student in Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging, and his research aims to connect information from various clinical data modalities to provide clinical decision support in patients with cancer and autoimmune disease.</p>
@@ -48,7 +48,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
     <h4>Zheyuan Zhang</h4>
     <p>Zheyuan will join the lab in August 2024 as a PhD student in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicentric collaboration in the field of Surgical Data Science.</p>
