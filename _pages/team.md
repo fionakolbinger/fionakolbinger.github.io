@@ -30,7 +30,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/ibtsaamqadir.jpg">
   <div class="team-member-info">
-    <h4>Muhammad Ibtsaam Qadir</h4>
+    <h4>Muhammad Ibtsaam Qadir, BSc</h4>
     <p>Ibtsaam joined the team in May 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
   </div>
 </div>
@@ -40,8 +40,8 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/yiyang.jpeg">
   <div class="team-member-info">
-    <h4>Yi Yang</h4>
-    <p>Yi will join the team in August 2024 as a PhD student in Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging, and his research aims to connect information from various clinical data modalities to provide clinical decision support in patients with cancer and autoimmune disease.</p>
+    <h4>Yi Yang, MSc</h4>
+    <p>Yi will join the team in August 2024 as a PhD student in Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging, and his research aims to connect information from various clinical data types to provide decision support in patients with cancer and autoimmune disease.</p>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
-    <h4>Zheyuan Zhang</h4>
+    <h4>Zheyuan Zhang, MSc</h4>
     <p>Zheyuan will join the lab in August 2024 as a PhD student in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicentric collaboration in the field of Surgical Data Science.</p>
   </div>
 </div>
@@ -153,7 +153,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/enrikgeissler.jpeg">
   <div class="team-member-info">
-    <h4>Mark Enrik Geissler</h4>
+    <h4>Mark Enrik Geissler, MSc</h4>
     <p>Enrik is a medical student with diverse research experience in both wet lab settings and computational labs. He is interested in leveraging computational methods for the analysis of routine imaging in laparoscopic surgery and foregut endoscopy.</p>
   </div>
 </div>
@@ -164,7 +164,7 @@ horizontal: false
   <img src="/assets/img/kevinpfeiffer.png">
   <div class="team-member-info">
     <h4>Kevin Pfeiffer</h4>
-    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather. Building on years of programming experience, Kevin focuses on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
+    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather at the Technical University Dresden. Building on years of programming experience, Kevin focuses on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
   </div>
 </div>
 
