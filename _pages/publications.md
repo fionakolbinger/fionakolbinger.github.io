@@ -72,7 +72,7 @@ We share some of our ideas and experiences in the field of computational medicin
 
 We believe that science is inherently interdisciplinary and teaches us lessons that can help us understand phenomena beyond our workplace. The following works document ongoing, curiosity-driven research in the context of endurance sports and mental health. 
 
-- Gauckler P, Kesenheimer JS, Leierer J, Kruus M, Schreinlechner M, Theurl F, Bauer A, Denicolò S, Egger A, Seeber B, Mayer G, Kolbinger FR <sup>#</sup>, Kronbichler A<sup>#</sup>. *Exercise-Induced Fluid Retention, Cardiac Volume Overload, and Peripheral Edema in Ultra-Distance Cyclists.* **Kidney International Reports, 2024**. doi: [10.1016/j.ekir.2023.10.025](https://doi.org/10.1016/j.ekir.2023.10.025).
+- Gauckler P, Kesenheimer JS, Leierer J, Kruus M, Schreinlechner M, Theurl F, Bauer A, Denicolò S, Egger A, Seeber B, Mayer G, Kolbinger FR<sup>#</sup>, Kronbichler A<sup>#</sup>. *Exercise-Induced Fluid Retention, Cardiac Volume Overload, and Peripheral Edema in Ultra-Distance Cyclists.* **Kidney International Reports, 2024**. doi: [10.1016/j.ekir.2023.10.025](https://doi.org/10.1016/j.ekir.2023.10.025).
 
 - Kesenheimer JS\*, Sagioglou C\*, Kronbichler A, Gauckler P<sup>#</sup>, Kolbinger FR<sup>#</sup>. *Why Do People Cycle (a Lot)? A Multivariate Approach on Mental Health, Personality Traits and Motivation as Determinants for Cycling Ambition.* **Journal of Applied Sport Psychology, 2023**. doi: [10.1080/10413200.2023.2166157](https://doi.org/10.1080/10413200.2023.2166157).
 

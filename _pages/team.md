@@ -30,8 +30,8 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/ibtsaamqadir.jpg">
   <div class="team-member-info">
-    <h4>Muhammad Ibtsaam Qadir, BSc</h4>
-    <p>Ibtsaam joined the team in May 2024 as a PhD student in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
+    <h4>Muhammad Ibtsaam Qadir, BE</h4>
+    <p>Ibtsaam joined the team in May 2024 as a graduate researcher in the field of Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ horizontal: false
   <img src="/assets/img/yiyang.jpeg">
   <div class="team-member-info">
     <h4>Yi Yang, MSc</h4>
-    <p>Yi will join the team in August 2024 as a PhD student in Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging, and his research aims to connect information from various clinical data types to provide decision support in patients with cancer and autoimmune disease.</p>
+    <p>Yi joined the team in August 2024 as a graduate researcher in the field of Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging. Yi's research aims to make the compilation of large-scale datasets more efficient and to connect information from various clinical data types for decision support in patients with cancer and autoimmune disease.</p>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ horizontal: false
   <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
     <h4>Zheyuan Zhang, MSc</h4>
-    <p>Zheyuan will join the lab in August 2024 as a PhD student in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicentric collaboration in the field of Surgical Data Science.</p>
+    <p>Zheyuan joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicentric collaboration in the field of Surgical Data Science.</p>
   </div>
 </div>
 
@@ -71,7 +71,7 @@ horizontal: false
   <img src="/assets/img/farrenmartinus.jpeg">
   <div class="team-member-info">
     <h4>Farren Martinus</h4>
-    <p>Farren joined the team in 2024. He is a Biomedical Engineering undergraduate student with an interest in electrical engineering and medical decision support software development. His research focuses on the analysis of laparoscopic imaging data.</p>
+    <p>Farren is part of the team since 2024. He is a Biomedical Engineering undergraduate student with an interest in electrical engineering and medical decision support software development. His research focuses on the analysis of laparoscopic imaging data.</p>
   </div>
 </div>
 
@@ -111,7 +111,7 @@ horizontal: false
   <img src="/assets/img/salonijajoo.jpeg">
   <div class="team-member-info">
     <h4>Saloni Jajoo</h4>
-    <p>Saloni is a Data Science student at Purdue University with a minor in Computer Science. Building on years of experience in data analysis and visualization, she aims to identify clinically relevant disease patterns from large clinical datasets in the fields of interventional cardiology and cardiac surgery. Saloni joined the team in 2024.</p>
+    <p>Saloni is a Data Science student at Purdue University with a minor in Computer Science. Building on years of experience in data analysis and visualization, she aims to identify clinically relevant disease patterns from large clinical datasets in the fields of interventional cardiology and cardiac surgery. In addition, she contributes to ongoing qualitative research on the clinical translation of intraoperative surgical decision support systems. Saloni joined the team in 2024.</p>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ horizontal: false
   <img src="/assets/img/futurehospital.png">
   <div class="team-member-info">
     <h4>Stephanie Close</h4>
-    <p>Steph studies Electrical and Computer Engineering and joined the TIPS Lab in 2024. Building on years of programming experience, her research focuses on deep learning-based analysis of radiological imaging data.</p>
+    <p>Steph studies Electrical and Computer Engineering and joined our lab in 2024. Building on years of programming experience, her research focuses on deep learning-based analysis of radiological imaging data.</p>
   </div>
 </div>
 
@@ -131,30 +131,10 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/sophieschwarzkopf.jpeg">
-  <div class="team-member-info">
-    <h4>Dr. Sophie-Caroline Schwarzkopf, BSc, MD</h4>
-    <p>Sophie is a clinician scientist in the field of obstetrics and gynecology with a strong interest in medical education and training. She joined the lab in 2021. Sophie holds a bachelor's degree in Health Economics and graduated from medical school in 2022. Her research focuses on serious gaming in medical education in the context of surgical complications as well as laparoscopic skill acquisition and abdominal sonography. Sophie's published research is listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc">Pubmed</a>.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
   <img src="/assets/img/matthiascarstens.jpeg">
   <div class="team-member-info">
     <h4>Matthias Carstens</h4>
-    <p>Matthias joined the lab in 2020. He is a medical doctoral student at the Technical University Dresden, Germany, and is co-advised by Prof. Marius Distler. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/enrikgeissler.jpeg">
-  <div class="team-member-info">
-    <h4>Mark Enrik Geissler, MSc</h4>
-    <p>Enrik is a medical student with diverse research experience in both wet lab settings and computational labs. He is interested in leveraging computational methods for the analysis of routine imaging in laparoscopic surgery and foregut endoscopy.</p>
+    <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his thesis in 2024 (magna cum laude). He is now a surgeon scientist at the Technical University Dresden, Germany. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -182,8 +162,10 @@ horizontal: false
 
 ## Alumni
 
+*Dr. Sophie-Caroline Schwarzkopf, BSc, MD* was a medical doctoral student and a clinician scientist in our group from 2021-2024. She conducted research on educational serious gaming applications in the context of surgical patient care and postoperative complications. Sophie defended her doctoral thesis in 2023  (summa cum laude). Her published works are listed on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc).
+
 *Thomas Nielen* was a medical doctoral student in our group from 2020-2022 and conducted research on functional outcomes after rectal cancer surgery. Find Thomas on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=nielen+tp).
 
-*Franziska Rinner* was part of the lab as a medical doctoral student from 2020-2022 and conducted research on intraoperative surgical decision support. Find Fanny's published works on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=franziska+rinner).
+*Dr. Franziska Rinner, MD* was part of the lab as a medical doctoral student from 2020-2022 and conducted research on intraoperative surgical decision support. She defended her thesis at the Technical University Dresden in 2024 (summa cum laude). Find Fanny's published works on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=franziska+rinner).
 
 <br>
