@@ -14,7 +14,7 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/fionakolbinger.jpeg">
+  <img src="/assets/img/fionakolbinger2.jpeg">
   <div class="team-member-info">
     <h4>Dr. Fiona Kolbinger, MD</h4>
     <p>Fiona is a physician by training and joined Purdue University's Weldon School of Biomedical Engineering as a Research Assistant Professor in 2023. She holds secondary affiliations with the Regenstrief Center for Healthcare Engineering (RCHE) at Purdue University, the Department of Biostatistics and Health Data Science at Indiana University, and the Department of Visceral, Thoracic and Vascular Surgery at the University Hospital Dresden, Germany. Fiona completed her doctorate at the German Cancer Research Center in Heidelberg, Germany in 2019 and has since conducted translational research at the intersection of surgery and data science. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
@@ -134,7 +134,7 @@ horizontal: false
   <img src="/assets/img/matthiascarstens.jpeg">
   <div class="team-member-info">
     <h4>Matthias Carstens</h4>
-    <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his thesis in 2024 (magna cum laude). He is now a surgeon scientist at the Technical University Dresden, Germany. His research focuses on the compilation and analysis of unique large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
+    <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his thesis in 2024 (magna cum laude). He is now a surgeon scientist at the Technical University Dresden, Germany. His research focuses on the compilation and analysis of large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -162,7 +162,7 @@ horizontal: false
 
 ## Alumni
 
-*Dr. Sophie-Caroline Schwarzkopf, BSc, MD* was a medical doctoral student and a clinician scientist in our group from 2021-2024. She conducted research on educational serious gaming applications in the context of surgical patient care and postoperative complications. Sophie defended her doctoral thesis in 2023  (summa cum laude). Her published works are listed on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc).
+*Dr. Sophie-Caroline Schwarzkopf, BSc, MD* was a medical doctoral student and a clinician scientist in our group from 2021-2024. She conducted research on educational serious gaming applications in the context of surgical patient care and postoperative complications. Sophie defended her doctoral thesis in 2023 (summa cum laude). Her published works are listed on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc).
 
 *Thomas Nielen* was a medical doctoral student in our group from 2020-2022 and conducted research on functional outcomes after rectal cancer surgery. Find Thomas on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=nielen+tp).
 
