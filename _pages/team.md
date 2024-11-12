@@ -88,7 +88,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/nathashagundapanemi.jpg">
+  <img src="/assets/img/nathashagundapanemi.jpeg">
   <div class="team-member-info">
     <h4>Natasha Gundapanemi</h4>
     <p>Natasha studies Electrical and Computer Engineering and joined the lab in August 2024. She supports our team's medical image segmentation pipeline.</p>
