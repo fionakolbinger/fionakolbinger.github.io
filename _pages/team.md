@@ -41,7 +41,7 @@ horizontal: false
   <img src="/assets/img/yiyang.jpeg">
   <div class="team-member-info">
     <h4>Yi Yang, MSc</h4>
-    <p>Yi joined the team in August 2024 as a graduate researcher in the field of Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging. Yi's research aims to make the compilation of large-scale datasets more efficient and to connect information from various clinical data types for decision support in patients with cancer and autoimmune disease.</p>
+    <p>Yi joined the team in August 2024 as a graduate researcher in the field of Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging. Yi's research aims to make the compilation of large-scale clinical datasets more efficient and to connect information from various data types for decision support in patients with cancer and autoimmune disease.</p>
   </div>
 </div>
 
@@ -78,20 +78,20 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/henrynguyen.jpeg">
+  <img src="/assets/img/madisonloiselle.jpeg">
   <div class="team-member-info">
-    <h4>Henry Nguyen</h4>
-    <p>Henry is an aspiring Aeronautical and Astronautical Engineer who joined the TIPS Lab in 2024. Having worked with X-ray imaging of turbines before joining our team, he now primarily investigates medical imaging data, focusing on histopathological data from various species.</p>
+    <h4>Madison Loiselle</h4>
+    <p>Maddie studies Biomedical Engineering with a Computer Science minor and joined the team in 2024. She works on veterinary imaging data and investigates ways to predict clinically actionable endpoints histopathological and radiological routine imaging.</p>
   </div>
 </div>
 
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/madisonloiselle.jpeg">
+  <img src="/assets/img/nathashagundapanemi.jpg">
   <div class="team-member-info">
-    <h4>Madison Loiselle</h4>
-    <p>Maddie studies Biomedical Engineering with a Computer Science minor and joined the team in 2024. She works on veterinary histopathology data and investigates ways to predict clinically actionable endpoints from routine imaging.</p>
+    <h4>Natasha Gundapanemi</h4>
+    <p>Natasha studies Electrical and Computer Engineering and joined the lab in August 2024. She supports our team's medical image segmentation pipeline.</p>
   </div>
 </div>
 
@@ -116,16 +116,6 @@ horizontal: false
 </div>
 
 <br>
-
-<div class="team-member">
-  <img src="/assets/img/futurehospital.png">
-  <div class="team-member-info">
-    <h4>Stephanie Close</h4>
-    <p>Steph studies Electrical and Computer Engineering and joined our lab in 2024. Building on years of programming experience, her research focuses on deep learning-based analysis of radiological imaging data.</p>
-  </div>
-</div>
-
-<br>
 ## Associate Lab Members
 
 ###### <br>
@@ -133,7 +123,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/matthiascarstens.jpeg">
   <div class="team-member-info">
-    <h4>Matthias Carstens</h4>
+    <h4>Dr. Matthias Carstens</h4>
     <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his thesis in 2024 (magna cum laude). He is now a surgeon scientist at the Technical University Dresden, Germany. His research focuses on the compilation and analysis of large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
   </div>
 </div>
