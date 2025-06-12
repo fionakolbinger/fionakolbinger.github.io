@@ -16,7 +16,7 @@ To learn more about our research, please see our [publications](/publications/),
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img src="/assets/img/groupphoto_2025-10.jpeg" alt="group photo" width="600"/>
+  <img src="/assets/img/groupphoto_2025-05.jpeg" alt="group photo" width="600"/>
 </div>
 
 <br>

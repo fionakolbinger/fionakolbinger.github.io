@@ -38,20 +38,20 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/yiyang.jpeg">
+  <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
-    <h4>Yi Yang, MSc</h4>
-    <p>Yi joined the team in August 2024 as a graduate researcher in the field of Biomedical Engineering, supported by a CIGP Lynn Fellowship. Following his undergraduate studies in Biomedical Engineering at Rutgers University, he graduated from Columbia University with a master's degree in Bioinformatics and Machine Learning in 2023. His research interests include deep learning-based analysis of various medical imaging modalities including ultrasound, radiological, and histopathological imaging. Yi's research aims to make the compilation of large-scale clinical datasets more efficient and to connect information from various data types for decision support in patients with cancer and autoimmune disease.</p>
+    <h4>Zheyuan Zhang, MSc</h4>
+    <p>Zheyuan joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicenter collaboration in the field of Surgical Data Science.</p>
   </div>
 </div>
 
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/zheyuanzhang.jpeg">
+  <img src="/assets/img/natashagundapanemi-new.jpeg">
   <div class="team-member-info">
-    <h4>Zheyuan Zhang, MSc</h4>
-    <p>Zheyuan joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicenter collaboration in the field of Surgical Data Science.</p>
+    <h4>Natasha Gundapanemi</h4>
+    <p>Natasha studies Electrical and Computer Engineering and joined the lab in August 2024. Following the completion of her undergraduate studies at Purdue University in 2025, she is now a master student in our lab. In her research, Natasha uses qualitative and quantitative methods to increase the explainability and clinical value of computational surgical video analysis models. She is co-advised by Prof. Vijay Gupta at the Elmore Family School of Electrical and Computer Engineering at Purdue University.</p>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/farrenmartinus.jpeg">
+  <img src="/assets/img/farrenmartinus-new.jpeg">
   <div class="team-member-info">
     <h4>Farren Martinus</h4>
     <p>Farren is part of the team since 2024. He is a Biomedical Engineering undergraduate student with an interest in electrical engineering and medical decision support software development. His research focuses on the analysis of laparoscopic imaging data.</p>
@@ -82,16 +82,6 @@ horizontal: false
   <div class="team-member-info">
     <h4>Madison Loiselle</h4>
     <p>Maddie studies Biomedical Engineering with a Computer Science minor and joined the team in 2024. She works on veterinary imaging data and investigates ways to predict clinically actionable endpoints from histopathological and radiological routine imaging.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/futurehospital.png">
-  <div class="team-member-info">
-    <h4>Natasha Gundapanemi</h4>
-    <p>Natasha studies Electrical and Computer Engineering and joined the lab in August 2024. She supports our team's medical image segmentation pipeline.</p>
   </div>
 </div>
 
@@ -126,6 +116,7 @@ horizontal: false
 </div>
 
 <br>
+
 ## Associate Lab Members
 
 ###### <br>
@@ -144,7 +135,7 @@ horizontal: false
   <img src="/assets/img/kevinpfeiffer.png">
   <div class="team-member-info">
     <h4>Kevin Pfeiffer</h4>
-    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather at the Technical University Dresden. Building on years of programming experience, Kevin focuses on deep learning-based analysis of histopathological imaging from patients with pancreatic tumors to identify novel biomarkers. Moreover, he is interested in practical implementation of decentralized AI methods such as Swarm Learning. </p>
+    <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather at the Technical University Dresden. Building on years of programming experience, Kevin focuses on the practical implementation of decentralized AI methods, such as Swarm Learning. </p>
   </div>
 </div>
 
