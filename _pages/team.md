@@ -50,7 +50,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/natashagundapanemi-new.jpeg">
   <div class="team-member-info">
-    <h4>Natasha Gundapanemi</h4>
+    <h4>Natasha Gundapanemi, BS</h4>
     <p>Natasha studies Electrical and Computer Engineering and joined the lab in August 2024. Following the completion of her undergraduate studies at Purdue University in 2025, she is now a master student in our lab. In her research, Natasha uses qualitative and quantitative methods to increase the explainability and clinical value of computational surgical video analysis models. She is co-advised by Prof. Vijay Gupta at the Elmore Family School of Electrical and Computer Engineering at Purdue University.</p>
   </div>
 </div>
@@ -60,7 +60,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/evanzhang.jpeg">
   <div class="team-member-info">
-    <h4>Evan Zhang</h4>
+    <h4>Evan Zhang, BS</h4>
     <p>Evan is a medical student at Indiana University West Lafayette and is part of the Biomedical Engineering scholarly concentration. He finished his undergraduate in Biochemistry with a minor in Computer Science at the Ohio State University in 2023. In our lab, Evan's research focuses on quality improvement and complication risk stratification in patients undergoing cardiac interventions.</p>
   </div>
 </div>
