@@ -60,11 +60,13 @@ Saldanha OL, Muti HS, Grabsch HI, Langer R, Dislich B, Kohlruss M, Keller G, van
 
 We share some of our ideas and experiences in the field of computational medicine and surgery in these reviews and comments: 
 
+- Kolbinger FR, Kather JN. *Adaptive Validation Strategies for Real-World Clinical Artificial Intelligence.* **Nature Computational Science, 2025**. doi: [10.1038/s43588-025-00901-x](https://doi.org/10.1038/s43588-025-00901-x)
+
+- Qadir MI, Hira RS, Kolbinger FR. *From Marginal Gains to Clinical Utility: Machine Learning-Based Percutaneous Coronary Intervention Risk Prediction Models.* **European Heart Journal - Digital Health, 2025**. doi: [10.1093/ehjdh/ztaf001](https://doi.org/10.1093/ehjdh/ztaf001)
+
 - Kolbinger FR\*, Veldhuizen GP\*, Zhu J, Truhn D, Kather JN. *Reporting Guidelines in Medical Artificial Intelligence: A Systematic Review and Meta-Analysis.* **Communications Medicine, 2024**. doi: [10.1038/s43856-024-00492-0](https://doi.org/10.1038/s43856-024-00492-0)
 
 - Clusmann J\*, Kolbinger FR\*, Muti HS\*, Carrero ZI, Eckardt JN, Ghaffari Laleh N, Löffler CML, Schwarzkopf SC, Unger M, Veldhuizen GP, Wagner SJ, Kather JN. *The Future Landscape of Large Language Models in Medicine.* **Communications Medicine, 2023**. doi: [10.1038/s43856-023-00370-1](https://doi.org/10.1038/s43856-023-00370-1)
-
-- Quero G, Mascagni P, Kolbinger FR, Fiorillo C, De Sio D, Longo F, Schena CA, Laterza V, Rosa F, Menghi R, Papa V, Tondolo V, Cina C, Distler M, Weitz J, Speidel S, Padoy N, Alfieri S. *Artificial Intelligence in Colorectal Cancer Surgery: Present and Future Perspectives.* **Cancers, 2022**. doi: [10.3390/cancers14153803](https://doi.org/10.3390/cancers14153803). 
 
 <br>
 

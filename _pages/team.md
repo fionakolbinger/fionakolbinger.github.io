@@ -28,10 +28,10 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/ibtsaamqadir.jpg">
+  <img src="/assets/img/ibtsaamqadir2.jpg">
   <div class="team-member-info">
     <h4>Muhammad Ibtsaam Qadir, BE</h4>
-    <p>Ibtsaam joined the team in May 2024 as a graduate researcher in the field of Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease.</p>
+    <p>Ibtsaam joined the team in May 2024 as a graduate researcher in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease. Find Ibtsaam's publications on <a href="https://scholar.google.de/citations?hl=de&user=pv1eYiAAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=muhammad+ibtsaam+qadir">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -40,8 +40,8 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
-    <h4>Zheyuan Zhang, MSc</h4>
-    <p>Zheyuan joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical scene understanding and intraoperative surgical decision support as well as multicenter collaboration in the field of Surgical Data Science.</p>
+    <h4>Zheyuan (Scott) Zhang, MSc</h4>
+    <p>Scott joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical video understanding for intraoperative surgical decision support and quality assurance. Scott's publications are listed on <a href="https://scholar.google.com/citations?user=KVqTT0EAAAAJ&hl=en">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=zheyuan+zhang+AND+kolbinger">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -68,40 +68,20 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/farrenmartinus-new.jpeg">
+  <img src="/assets/img/mariamoreano.jpg">
   <div class="team-member-info">
-    <h4>Farren Martinus</h4>
-    <p>Farren is part of the team since 2024. He is a Biomedical Engineering undergraduate student with an interest in electrical engineering and medical decision support software development. His research focuses on the analysis of laparoscopic imaging data.</p>
+    <h4>Maria Moreano</h4>
+    <p>Maria is a Biomedical Engineering undergraduate student with an interest in histopathologic image analysis. She is part of the team since 2025 and works on digital pathology data from Purdue's veterinary clinic to identify differences and commonalities in disease patterns across various species.</p>
   </div>
 </div>
 
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/madisonloiselle.jpeg">
+  <img src="/assets/img/medhabelwadi.jpeg">
   <div class="team-member-info">
-    <h4>Madison Loiselle</h4>
-    <p>Maddie studies Biomedical Engineering with a Computer Science minor and joined the team in 2024. She works on veterinary imaging data and investigates ways to predict clinically actionable endpoints from histopathological and radiological routine imaging.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/nathanpairitz.jpeg">
-  <div class="team-member-info">
-    <h4>Nathan Pairitz</h4>
-    <p>Nate is a medical student at Indiana University West Lafayette with a keen interest in anatomy and medical education. His research focuses on the practical integration of large language models into medical curricula.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/salonijajoo.jpeg">
-  <div class="team-member-info">
-    <h4>Saloni Jajoo</h4>
-    <p>Saloni is a Data Science student at Purdue University with a minor in Computer Science. Building on years of experience in data analysis and visualization, she aims to identify clinically relevant disease patterns from large clinical datasets in the fields of interventional cardiology and cardiac surgery. In addition, she contributes to ongoing qualitative research on the clinical translation of intraoperative surgical decision support systems. Saloni joined the team in 2024.</p>
+    <h4>Medha Belwadi</h4>
+    <p>Medha studies Computer Science and joined the team in 2025. She is interested in AI-based augmentation of computational analysis of various types of medical imaging data, including endoscopic and histopathological data. In our lab, Medha's research aims to make AI models for surgical video understanding more explainable.</p>
   </div>
 </div>
 
@@ -112,6 +92,16 @@ horizontal: false
   <div class="team-member-info">
     <h4>Sanshray Kumar</h4>
     <p>Sanshray studies Computer Science at Purdue University and joined the lab in January 2025. He supports our team's surgical video analysis pipeline.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/stevenkiss.jpeg">
+  <div class="team-member-info">
+    <h4>Steven Kiss</h4>
+    <p>Steven is a Computer Science student at Purdue University with a concentration in Machine Intelligence and a minor in Mathematics. Building on years of experience in computational data analysis, his research in our lab currently focuses on the prediction of clinical outcomes after pancreatic surgery from multimodal preoperative data. Steven joined the team in 2025.</p>
   </div>
 </div>
 
