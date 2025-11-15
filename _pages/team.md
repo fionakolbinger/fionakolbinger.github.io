@@ -61,7 +61,7 @@ horizontal: false
   <img src="/assets/img/evanzhang.jpeg">
   <div class="team-member-info">
     <h4>Evan Zhang, BS</h4>
-    <p>Evan is a medical student at Indiana University West Lafayette and is part of the Biomedical Engineering scholarly concentration. He finished his undergraduate in Biochemistry with a minor in Computer Science at the Ohio State University in 2023. In our lab, Evan's research focuses on quality improvement and complication risk stratification in patients undergoing cardiac interventions.</p>
+    <p>Evan is a medical student at Indiana University West Lafayette and is part of the Biomedical Engineering scholarly concentration. He finished his undergraduate in Biochemistry with a minor in Computer Science at the Ohio State University in 2023. In our lab, Evan's research focuses on quality improvement and complication risk stratification in patients undergoing cardiac interventions. Evan joined the team in September 2024.</p>
   </div>
 </div>
 
@@ -71,7 +71,7 @@ horizontal: false
   <img src="/assets/img/mariamoreano.jpg">
   <div class="team-member-info">
     <h4>Maria Moreano</h4>
-    <p>Maria is a Biomedical Engineering undergraduate student with an interest in histopathologic image analysis. She is part of the team since 2025 and works on digital pathology data from Purdue's veterinary clinic to identify differences and commonalities in disease patterns across various species.</p>
+    <p>Maria is a Biomedical Engineering undergraduate student with an interest in histopathologic image analysis. She is part of the team since August 2025 and works on digital pathology data from Purdue's veterinary clinic to identify differences and commonalities in disease patterns across various species.</p>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ horizontal: false
   <img src="/assets/img/medhabelwadi.jpeg">
   <div class="team-member-info">
     <h4>Medha Belwadi</h4>
-    <p>Medha studies Computer Science and joined the team in 2025. She is interested in computational analysis of various types of medical imaging data, including endoscopic and histopathological data. In our lab, Medha's research aims to make AI models for laparoscopic surgical video understanding more explainable.</p>
+    <p>Medha studies Computer Science and joined the team in August 2025. She is interested in computational analysis of various types of medical imaging data, including endoscopic and histopathological data. In our lab, Medha's research aims to make AI models for laparoscopic surgical video understanding more explainable.</p>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ horizontal: false
   <img src="/assets/img/stevenkiss.jpeg">
   <div class="team-member-info">
     <h4>Steven Kiss</h4>
-    <p>Steven is a Computer Science student at Purdue University with a concentration in Machine Intelligence and a minor in Mathematics. Building on years of experience in computational data analysis, his research in our lab currently focuses on the prediction of clinical outcomes after pancreatic surgery from multimodal preoperative data. Steven joined the team in 2025.</p>
+    <p>Steven is a Computer Science student at Purdue University with a concentration in Machine Intelligence and a minor in Mathematics. Building on years of experience in computational data analysis, his research in our lab currently focuses on the prediction of clinical outcomes after pancreatic surgery from multimodal preoperative data. Steven joined the team in August 2025.</p>
   </div>
 </div>
 
