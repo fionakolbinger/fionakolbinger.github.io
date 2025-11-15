@@ -81,7 +81,7 @@ horizontal: false
   <img src="/assets/img/medhabelwadi.jpeg">
   <div class="team-member-info">
     <h4>Medha Belwadi</h4>
-    <p>Medha studies Computer Science and joined the team in 2025. She is interested in AI-based augmentation of computational analysis of various types of medical imaging data, including endoscopic and histopathological data. In our lab, Medha's research aims to make AI models for surgical video understanding more explainable.</p>
+    <p>Medha studies Computer Science and joined the team in 2025. She is interested in computational analysis of various types of medical imaging data, including endoscopic and histopathological data. In our lab, Medha's research aims to make AI models for laparoscopic surgical video understanding more explainable.</p>
   </div>
 </div>
 
