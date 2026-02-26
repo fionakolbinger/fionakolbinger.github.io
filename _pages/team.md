@@ -68,6 +68,16 @@ horizontal: false
 <br>
 
 <div class="team-member">
+  <img src="/assets/img/ryanball.jpeg">
+  <div class="team-member-info">
+    <h4>Ryan Ball, BS, MPAS</h4>
+    <p>Ryan is a medical student at Indiana University West Lafayette and joined our team in December 2025. Following his undergraduate in kinesiology and exercise science at IUPUI, he trained as a physician assistant at the interservice physician assistant school associated with the University of Nebraska Medical Center and worked clinically for several years. Ryan's work in our lab focuses on clinical quality assurance in the management of pancreatic cancer precursors.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
   <img src="/assets/img/mariamoreano.jpg">
   <div class="team-member-info">
     <h4>Maria Moreano</h4>
@@ -88,10 +98,10 @@ horizontal: false
 <br>
 
 <div class="team-member">
-  <img src="/assets/img/sanshraykumar.jpeg">
+  <img src="/assets/img/rushilramchand.jpeg">
   <div class="team-member-info">
-    <h4>Sanshray Kumar</h4>
-    <p>Sanshray studies Computer Science at Purdue University and joined the lab in January 2025. He supports our team's surgical video analysis pipeline.</p>
+    <h4>Rushil Ramchand</h4>
+    <p>Rushil is a Computer Science student at Purdue University and joined the lab in December 2025. Building on years of hands-on and industry project-related experiences in language processing, he supports our team's surgical video analysis pipelines and benchmarking efforts.</p>
   </div>
 </div>
 
@@ -145,7 +155,7 @@ horizontal: false
 
 *Dr. Sophie-Caroline Schwarzkopf, BSc, MD* was a medical doctoral student and a clinician scientist in our group from 2021-2024. She conducted research on educational serious gaming applications in the context of surgical patient care and postoperative complications. Sophie defended her doctoral thesis in 2023 (summa cum laude). Her published works are listed on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=schwarzkopf+sc).
 
-*Thomas Nielen* was a medical doctoral student in our group from 2020-2022 and conducted research on functional outcomes after rectal cancer surgery. Find Thomas on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=nielen+tp).
+*Thomas Nielen, MD* was a medical doctoral student in our group from 2020-2022 and conducted research on functional outcomes after rectal cancer surgery. Find Thomas on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=nielen+tp).
 
 *Dr. Franziska Rinner, MD* was part of the lab as a medical doctoral student from 2020-2022 and conducted research on intraoperative surgical decision support. She defended her thesis at the Technical University Dresden in 2024 (summa cum laude). Find Fanny's published works on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=franziska+rinner).
 
