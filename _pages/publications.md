@@ -15,9 +15,11 @@ Please find our full list of publications on [Pubmed](https://pubmed.ncbi.nlm.ni
 
 <br>
 
-## Intraoperative surgical decision support
+## Surgical video understanding and intraoperative surgical decision support
 
 One of our key research areas is intraoperative decision support in laparoscopic and robot-assisted surgery based on real-world imaging data. We specialize in both compilation of valuable new datasets and implementation of clinically applicable tools that are currently undergoing clinical evaluation. 
+
+- Carstens M, Vasisht S, Zhang Z, Barbur I, Reinke A, Maier-Hein L, Hashimoto DA, Kolbinger FR. *Artificial Intelligence for Surgical Scene Understanding: A Systematic Review and Reporting Quality Meta-Analysis.* **npj Digital Medicine, 2025**. doi: [10.1038/s41746-025-02227-4](https://doi.org/10.1038/s41746-025-02227-4).
 
 - Kolbinger FR, He J, Ma J, Zhu F. *Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models.* **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024**. doi: [10.48550/arXiv.2403.17192](https://doi.org/10.48550/arXiv.2403.17192).
 
