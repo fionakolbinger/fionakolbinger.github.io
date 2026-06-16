@@ -9,11 +9,11 @@ display_categories: []
 horizontal: false
 ---
 
-We are always searching for highly motivated undergraduate and graduate students as well as postdoctoral researchers with a background in (bio-)medicine, computer science, electrical and computer engineering, mechanical engineering, statistics or related fields. 
+<!-- We are always searching for highly motivated undergraduate and graduate students as well as postdoctoral researchers with a background in (bio-)medicine, computer science, electrical and computer engineering, mechanical engineering, statistics or related fields. -->
 
-Prospective PhD students are encouraged to review information on Purdue University's [admission criteria and recruitment cycles](https://engineering.purdue.edu/BME/Academics/Graduate/Admissions) at the Weldon School of Biomedical Engineering. While application deadlines for graduate admission are generally December 1 (start in August the following year) and October 1 (start in January the following year), please feel free to get in touch outside of the key recruitment intervals as well. 
+We currently have several openings for graduate and postdoctoral researchers (fully-funded PhD positions for 3-5 years), a data manager, clinician scientists, research interns/guest scientists, and student research assistants with medical or computational backgrounds to join our team in Dresden, Germany. 
 
-To register interest in joining our team, please reach out with a detailed and informative email to fkolbing [at] purdue [dot] edu. Your email should contain the following details: 
+If you would like to join us, please reach out with a detailed and informative email to fiona.kolbinger [at] tu-dresden [dot] de. Your email should contain the following details: 
 
 - Your **name**.
 - Your **academic background**: If you are an undergraduate or medical student: your major, how much time you have already completed in your degree, and whether you have any prior research experience. If you are a recent graduate (bachelor’s or doctoral): your major and degree, and a brief summary of your prior research experience in 1-3 sentences.

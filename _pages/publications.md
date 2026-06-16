@@ -19,13 +19,11 @@ Please find our full list of publications on [Pubmed](https://pubmed.ncbi.nlm.ni
 
 One of our key research areas is intraoperative decision support in laparoscopic and robot-assisted surgery based on real-world imaging data. We specialize in both compilation of valuable new datasets and implementation of clinically applicable tools that are currently undergoing clinical evaluation. 
 
+- Kolbinger FR, Kirchner M, Pfeiffer K, Bodenstedt S, Jenke AC, Barthel J, Carstens M, Dehlke K, Dietz S, Emmanouilidis S, Fitze G, Freitag M, Holderried F, Jacobi T, Kanjo W, Leitermann L, Mees ST, Pistorius S, Prudlo C, Seiberth A, Schultz J, Thiel K, Ziehn D, Speidel S, Weitz J, Kather JN, Distler M, Saldanha OL. *Appendix300: Surgical Video and Patient Metadata of 330 Laparoscopic Appendectomy Cases from Five Institutions.* **Scientific Data, 2026**. doi: [10.1038/s41597-026-07593-6](https://doi.org/10.1038/s41597-026-07593-6).
+
 - Carstens M, Vasisht S, Zhang Z, Barbur I, Reinke A, Maier-Hein L, Hashimoto DA, Kolbinger FR. *Artificial Intelligence for Surgical Scene Understanding: A Systematic Review and Reporting Quality Meta-Analysis.* **npj Digital Medicine, 2025**. doi: [10.1038/s41746-025-02227-4](https://doi.org/10.1038/s41746-025-02227-4).
 
-- Kolbinger FR, He J, Ma J, Zhu F. *Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models.* **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024**. doi: [10.48550/arXiv.2403.17192](https://doi.org/10.48550/arXiv.2403.17192).
-
 - Kolbinger FR, Rinner FM, Jenke AC, Carstens M, Krell S, Leger S, Distler M, Weitz J, Speidel S, Bodenstedt S. *Anatomy Segmentation in Laparoscopic Surgery: Comparison of Machine Learning and Human Expertise – An Experimental Study.* **International Journal of Surgery, 2023**. doi: [10.1097/JS9.0000000000000595](https://doi.org/10.1097/JS9.0000000000000595).
-
-- Kolbinger FR, Bodenstedt S, Carstens M, Leger S, Krell S, Rinner FM, Nielen TP, Kirchberg J, Fritzmann J, Weitz J, Distler M<sup>#</sup>, Speidel S<sup>#</sup>. *Artificial Intelligence for Context-Aware Surgical Guidance in Complex Robot-Assisted Oncological Procedures: An Exploratory Feasibility Study.* **European Journal of Surgical Oncology, 2023**. doi: [10.1016/j.ejso.2023.106996](https://doi.org/10.1016/j.ejso.2023.106996).
 
 - Carstens M, Rinner FM, Bodenstedt S, Jenke A, Weitz J, Distler M, Speidel S<sup>#</sup>, Kolbinger FR<sup>#</sup>. *The Dresden Surgical Anatomy Dataset for Abdominal Organ Segmentation in Surgical Data Science.* **Scientific Data, 2023**. doi: [10.1038/s41597-022-01719-2](https://doi.org/10.1038/s41597-022-01719-2).
 
@@ -61,6 +59,8 @@ Saldanha OL, Muti HS, Grabsch HI, Langer R, Dislich B, Kohlruss M, Keller G, van
 ## Reviews and comments
 
 We share some of our ideas and experiences in the field of computational medicine and surgery in these reviews and comments: 
+
+- Zhang Z, Mascagni P, Reinke A, De Backer P, Bogaert W, Mezzina M, Donoho DA, Kolbinger FR. *Artificial Intelligence-Based Analysis of Laparoscopic Imaging for Intraoperative Surgical Decision Support.* **Annual Review of Biomedical Engineering, 2026**. doi: [10.1146/annurev-bioeng-110824-114236](https://doi.org/10.1146/annurev-bioeng-110824-114236).
 
 - Kolbinger FR, Kather JN. *Adaptive Validation Strategies for Real-World Clinical Artificial Intelligence.* **Nature Computational Science, 2025**. doi: [10.1038/s43588-025-00901-x](https://doi.org/10.1038/s43588-025-00901-x)
 
