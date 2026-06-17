@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- We are always searching for highly motivated undergraduate and graduate students as well as postdoctoral researchers with a background in (bio-)medicine, computer science, electrical and computer engineering, mechanical engineering, statistics or related fields. -->
 
-We currently have several openings for graduate and postdoctoral researchers (fully-funded PhD positions for 3-5 years), a data manager, clinician scientists, research interns/guest scientists, and student research assistants with medical or computational backgrounds to join our team in Dresden, Germany. 
+We currently have several openings for graduate and postdoctoral researchers, a data manager, clinician scientists, research interns/guest scientists, and student research assistants with medical or computational backgrounds to join our team in Dresden, Germany. 
 
 If you would like to join us, please reach out with a detailed and informative email to fiona.kolbinger [at] tu-dresden [dot] de. Your email should contain the following details: 
 
