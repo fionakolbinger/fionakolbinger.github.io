@@ -17,7 +17,21 @@ horizontal: false
   <img src="/assets/img/fionakolbinger3.jpeg">
   <div class="team-member-info">
     <h4>Fiona Kolbinger, MD, PhD</h4>
-    <p>Fiona is a physician by training and joined Purdue University's Weldon School of Biomedical Engineering as a Research Assistant Professor in 2023. She holds secondary affiliations with the Regenstrief Center for Healthcare Engineering (RCHE) at Purdue University, the Department of Surgery as well as the Department of Health Data Science at Indiana University School of Medicine, and the Department of Visceral, Thoracic and Vascular Surgery at the University Hospital Dresden, Germany. She completed her medical training at the University of Heidelberg School of Medicine in Germany and holds a research doctorate in Precision Oncology from the German Cancer Research Center, as well as a PhD in Surgical Data Science from the Technical University Dresden, Germany. Based on clinical training in general surgery and over a decade of interdisciplinary research experience, Fiona conducts translational research at the intersection of surgery and data science. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
+    <p>Fiona is a surgeon scientist and principal investigator at the Department of Visceral, Thoracic and Vascular Surgery and the Else Kröner Fresenius Center for Digital Health at TU Dresden, with adjunct faculty positions at Purdue University (Biomedical Engineering) as well as Indiana University School of Medicine (Department of Surgery). She completed her medical education at the University of Heidelberg School of Medicine and holds a research doctorate in Precision Oncology from the German Cancer Research Center as well as a PhD in Surgical Data Science from TU Dresden. Building on clinical training in general surgery and over a decade of interdisciplinary research experience in Europe and the United States, she conducts translational research at the intersection of surgery and AI. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
+  </div>
+</div>
+
+<br>
+
+## Lab Management
+
+###### <br>
+
+<div class="team-member">
+  <img src="/assets/img/sarahzippusch.jpeg">
+  <div class="team-member-info">
+    <h4>Sarah Zippusch, PhD</h4>
+    <p>Sarah is a biotechnologist by training and joined our lab as a scientific coordinator in 2026. She completed her undergraduate and graduate education in Medical and Pharmaceutical Biotechnology at IMC Krems, Austria, and holds a PhD in Tissue Engineering from Hannover Medical School. Building on several years of experience conducting and managing research, Sarah supports our group's strategic development and oversees national and international collaborations. Sarah's publications are listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=zippusch+s">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -28,9 +42,29 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
+  <img src="/assets/img/futurehospital.png">
+  <div class="team-member-info">
+    <h4>Julia Kleber, MD</h4>
+    <p>Julia is a surgeon scientist at TU Dresden and joined our team in 2026. She holds a bachelor's degree in piano as well as a medical degree and a research doctorate from the University of Regensburg, Germany. Her work in our lab focuses on AI applications for surgical quality assurance and personalized treatment in colorectal surgery. Julia's publications are listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=julia+kleber">Pubmed</a>.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/matthiascarstens.jpeg">
+  <div class="team-member-info">
+    <h4>Matthias Carstens, MD</h4>
+    <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his research thesis in 2024 (magna cum laude). He is now a surgeon scientist at TU Dresden. Matthias has several years of expertise in the compilation and analysis of large-scale datasets of laparoscopic imaging for surgical scene understanding tasks. In addition, he leads early-phase clinical trials of AI-enabled surgical decision support tools. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
   <img src="/assets/img/ibtsaamqadir2.jpg">
   <div class="team-member-info">
-    <h4>Muhammad Ibtsaam Qadir, BE</h4>
+    <h4>Muhammad Ibtsaam Qadir, BE, MSc</h4>
     <p>Ibtsaam joined the team in May 2024 as a graduate researcher in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease. Find Ibtsaam's publications on <a href="https://scholar.google.de/citations?hl=de&user=pv1eYiAAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=muhammad+ibtsaam+qadir">Pubmed</a>.</p>
   </div>
 </div>
@@ -97,39 +131,9 @@ horizontal: false
 
 <br>
 
-<div class="team-member">
-  <img src="/assets/img/rushilramchand.jpeg">
-  <div class="team-member-info">
-    <h4>Rushil Ramchand</h4>
-    <p>Rushil is a Computer Science student at Purdue University and joined the lab in December 2025. Building on years of hands-on and industry project-related experiences in language processing, he supports our team's surgical video analysis pipelines and benchmarking efforts.</p>
-  </div>
-</div>
-
-<br>
-
-<div class="team-member">
-  <img src="/assets/img/stevenkiss.jpeg">
-  <div class="team-member-info">
-    <h4>Steven Kiss</h4>
-    <p>Steven is a Computer Science student at Purdue University with a concentration in Machine Intelligence and a minor in Mathematics. Building on years of experience in computational data analysis, his research in our lab currently focuses on the prediction of clinical outcomes after pancreatic surgery from multimodal preoperative data. Steven joined the team in August 2025.</p>
-  </div>
-</div>
-
-<br>
-
 ## Associate Lab Members
 
 ###### <br>
-
-<div class="team-member">
-  <img src="/assets/img/matthiascarstens.jpeg">
-  <div class="team-member-info">
-    <h4>Dr. Matthias Carstens, MD</h4>
-    <p>Matthias joined the lab in 2020 as a medical doctoral student and defended his thesis in 2024 (magna cum laude). He is now a surgeon scientist at the Technical University Dresden, Germany. His research focuses on the compilation and analysis of large-scale datasets of laparoscopic imaging for intraoperative decision support. Matthias is specifically interested in improving the efficiency and value of expert annotations. In addition, he is interested in human-AI interaction and investigates the usability of intraoperative surgical decision support systems. Find Matthias on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=matthias+carstens">Pubmed</a>.</p>
-  </div>
-</div>
-
-<br>
 
 <div class="team-member">
   <img src="/assets/img/kevinpfeiffer.png">
