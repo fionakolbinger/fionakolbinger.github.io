@@ -17,7 +17,7 @@ horizontal: false
   <img src="/assets/img/fionakolbinger3.jpeg">
   <div class="team-member-info">
     <h4>Fiona Kolbinger, MD, PhD</h4>
-    <p>Fiona is a surgeon scientist and principal investigator at the Department of Visceral, Thoracic and Vascular Surgery and the Else Kröner Fresenius Center for Digital Health at TU Dresden, with adjunct faculty positions at Purdue University (Biomedical Engineering) as well as Indiana University School of Medicine (Department of Surgery). She completed her medical education at the University of Heidelberg School of Medicine and holds a research doctorate in Precision Oncology from the German Cancer Research Center as well as a PhD in Surgical Data Science from TU Dresden. Building on clinical training in general surgery and over a decade of interdisciplinary research experience in Europe and the United States, she conducts translational research at the intersection of surgery and AI. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
+    <p>Fiona is a surgeon scientist and principal investigator at the Department of Visceral, Thoracic and Vascular Surgery and the Else Kröner Fresenius Center for Digital Health at TU Dresden, with adjunct faculty positions at Purdue University (Biomedical Engineering) and Indiana University School of Medicine (Department of Surgery). She completed her medical education at the University of Heidelberg School of Medicine and holds a research doctorate in Precision Oncology from the German Cancer Research Center as well as a PhD in Surgical Data Science from TU Dresden. Building on clinical training in general surgery and over a decade of interdisciplinary research experience in Europe and the United States, she conducts translational research at the intersection of surgery and AI. Her works aim to develop computational tools for personalized treatment in surgery and interventional medicine and to evaluate the clinical value of these tools in early-phase clinical trials. Fiona's publications are listed on <a href="https://scholar.google.com/citations?hl=en&user=bH4TiGUAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kolbinger+fr">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -42,10 +42,10 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/futurehospital.png">
+  <img src="/assets/img/juliakleber.jpeg">
   <div class="team-member-info">
     <h4>Julia Kleber, MD</h4>
-    <p>Julia is a surgeon scientist at TU Dresden and joined our team in 2026. She holds a bachelor's degree in piano as well as a medical degree and a research doctorate from the University of Regensburg, Germany. Her work in our lab focuses on AI applications for surgical quality assurance and personalized treatment in colorectal surgery. Julia's publications are listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=julia+kleber">Pubmed</a>.</p>
+    <p>Julia is a surgeon scientist at TU Dresden and joined our team in 2026. She holds a bachelor's degree in piano as well as a medical degree and a research doctorate (summa cum laude) from the University of Regensburg, Germany. Her work in our lab focuses on AI applications for surgical quality assurance and personalized treatment in colorectal surgery. Julia's publications are listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=julia+kleber">Pubmed</a>.</p>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ horizontal: false
 <div class="team-member">
   <img src="/assets/img/ibtsaamqadir2.jpg">
   <div class="team-member-info">
-    <h4>Muhammad Ibtsaam Qadir, BE, MSc</h4>
+    <h4>Muhammad Ibtsaam Qadir, MSc</h4>
     <p>Ibtsaam joined the team in May 2024 as a graduate researcher in Biomedical Engineering. He completed his undergraduate studies in Electrical Engineering at the National University of Science and Technology in Islamabad, Pakistan in 2023. His research focuses on deep learning-based analysis of medical imaging and multimodal clinical data for the prediction of disease trajectories in patients with pancreatic disease. Find Ibtsaam's publications on <a href="https://scholar.google.de/citations?hl=de&user=pv1eYiAAAAAJ">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=muhammad+ibtsaam+qadir">Pubmed</a>.</p>
   </div>
 </div>
