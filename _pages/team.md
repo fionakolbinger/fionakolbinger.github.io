@@ -62,6 +62,16 @@ horizontal: false
 <br>
 
 <div class="team-member">
+  <img src="/assets/img/felipepotenza.jpg">
+  <div class="team-member-info">
+    <h4>Felipe Potenza Fontes, MSc</h4>
+    <p>Felipe is a computer scientist and joined our team as a doctoral researcher in 2026. He holds a bachelor's degree in Computer Science and Statistics from McGill University in Montréal, Canada, and a master's degree in Computer Science with a focus on autonomous systems from the University of Stuttgart, Germany. During his master's thesis at ZEISS, Felipe first got interested in using patterns from operative video to improve surgical care. Building on this experience, Felipe's research in our lab focuses on real-world evaluation of VLMs for surgical video interpretation, as well as video-based surgical education.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
   <img src="/assets/img/ibtsaamqadir2.jpg">
   <div class="team-member-info">
     <h4>Muhammad Ibtsaam Qadir, MSc</h4>
@@ -72,10 +82,30 @@ horizontal: false
 <br>
 
 <div class="team-member">
+  <img src="/assets/img/leonrunge.jpg">
+  <div class="team-member-info">
+    <h4>Leon Runge, MSc</h4>
+    <p>Leon is a psychologist by training and joined our team as a doctoral researcher in 2026. Prior to joining our team, Leon completed a bachelor's degree in Media Psychology from FHM University of Applied Sciences in Bielefeld and a master's degree in Media and Instructional Psychology from TU Chemnitz. In our lab, Leon works closely with patient representatives and surgeons to investigate stakeholder perspectives on surgical AI.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
   <img src="/assets/img/zheyuanzhang.jpeg">
   <div class="team-member-info">
     <h4>Zheyuan (Scott) Zhang, MSc</h4>
     <p>Scott joined the lab in August 2024 as a graduate researcher in Biomedical Engineering. He holds a bachelor's degree in Mechanical Engineering from Zhejiang University in Haining, China and the University of Illinois at Urbana-Champaign and completed his master's degree at Johns Hopkins University in 2024. Building on his experience in surgical image analysis, his research focuses on surgical video understanding for intraoperative surgical decision support and quality assurance. Scott's publications are listed on <a href="https://scholar.google.com/citations?user=KVqTT0EAAAAJ&hl=en">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=zheyuan+zhang+AND+kolbinger">Pubmed</a>.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
+  <img src="/assets/img/vidyasangappa.jpeg">
+  <div class="team-member-info">
+    <h4>Vidya Shree Sangappa, MSc</h4>
+    <p>Vidya is a computer scientist and joined our team as a doctoral researcher in 2026. She completed her undergraduate studies in Computer Science at the Bangalore Institute of Technology, India, and holds a master's degree in Computer Science with a focus on intelligent systems from RPTU Kaiserslautern, Germany. Building on her experience as a research assistant at the German Research Center for Artificial Intelligence (DFKI) and in industry, Vidya's research in our lab focuses on multicenter surgical video analysis and context-aware intraoperative decision support.</p>
   </div>
 </div>
 
@@ -112,6 +142,16 @@ horizontal: false
 <br>
 
 <div class="team-member">
+  <img src="/assets/img/syna.jpg">
+  <div class="team-member-info">
+    <h4>Syna, BE</h4>
+    <p>Syna is a master student in Computational Modeling and Simulation at TU Dresden and joined our team as a student research assistant in November 2026. She holds a bachelor's degree in Computer Science and Engineering from Chitkara University, India, and has gained research experience in medical image analysis, multimodal learning, and large language models in Germany, Taiwan, and the United States. In our lab, Syna's research focuses on connecting surgical video with preoperative and postoperative clinical data. Syna's publications are listed on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=syna+s%5Bau%5D">Pubmed</a>.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="team-member">
   <img src="/assets/img/mariamoreano.jpg">
   <div class="team-member-info">
     <h4>Maria Moreano</h4>
@@ -136,7 +176,7 @@ horizontal: false
 ###### <br>
 
 <div class="team-member">
-  <img src="/assets/img/kevinpfeiffer.png">
+  <img src="/assets/img/kevinpfeiffer_2.png">
   <div class="team-member-info">
     <h4>Kevin Pfeiffer</h4>
     <p>Kevin is a medical doctoral student at the Technical University Dresden and is co-advised by Prof. Jakob Kather at the Technical University Dresden. Building on years of programming experience, Kevin focuses on the practical implementation of decentralized AI methods, such as Swarm Learning. </p>
